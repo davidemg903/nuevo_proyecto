@@ -1,0 +1,47 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: black;
+}
+
+.card{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    color: #000;
+    background-color: #abbaba;
+    
+}
+.card-body{
+    background-color: black;
+    color: white;
+}
+
+.registro{
+    background-color: aqua;
+    text-align: start;
+    padding: 10px;
+    
+}
+.boton-1{
+    background-color: red;
+    color: white;
+    
+}
+
+.boton-1:hover{
+    background-color: green;
+    color: black;
+}
+
+body{
+    background-color: red;
+}
+
